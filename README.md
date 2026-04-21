@@ -1,4 +1,4 @@
-# Woldoph Monteus
+# Woldolph Monteus
 
 IT professional based in Orlando, FL — currently working toward CompTIA A+ 
 while building a foundation in networking, systems, and offensive security.
@@ -24,14 +24,13 @@ record of that work in progress.
 ## Repositories
 | Repo | What it is |
 |------|------------|
-| [troubleshooting-writeups](link) | Real IT problems I've diagnosed and resolved |
+| [troubleshooting-writeups](https://github.com/W-Monteus/troubleshooting-writeups) | Real IT problems I've diagnosed and resolved |
 
 ---
 
 ## Goals
 Building toward a career in penetration testing and offensive security. 
 Every project here is a step in that direction.
-
 <!--
 **W-Monteus/W-Monteus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
