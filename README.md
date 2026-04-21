@@ -15,7 +15,8 @@ record of that work in progress.
 ---
 
 ## Currently Working On
-- CompTIA A+ exam prep
+- CompTIA A+ Core 1 — Passed
+- CompTIA A+ Core 2 — In Progress 
 - Troubleshooting write-ups from real IT scenarios
 - Home lab build (coming 2026)
 
