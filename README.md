@@ -9,16 +9,13 @@ record of that work in progress.
 ---
 
 ## Certifications
-- Google IT Support Certificate — Complete
-- CompTIA A+ (Core 1 & 2) — In Progress
-
----
+- Google IT Support Certificate ✓
+- CompTIA A+ (220-1101 & 220-1102) ✓
+- CompTIA Network+ (N10-009) — In Progress
 
 ## Currently Working On
-- CompTIA A+ Core 1 — Passed
-- CompTIA A+ Core 2 — In Progress 
-- Troubleshooting write-ups from real IT scenarios
-- Home lab build (coming 2026)
+- CompTIA Network+ exam prep
+- Troubleshooting write-up portfolio (16 write-ups and counting)
 
 ---
 
