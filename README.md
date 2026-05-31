@@ -11,11 +11,11 @@ record of that work in progress.
 ## Certifications
 - Google IT Support Certificate ✓
 - CompTIA A+ (220-1101 & 220-1102) ✓
-- CompTIA Network+ (N10-009) — In Progress
+- CompTIA Network+ (N10-009) ✓
 
 ## Currently Working On
-- CompTIA Network+ exam prep
-- Troubleshooting write-up portfolio (16 write-ups and counting)
+- CCNA exam prep
+- Troubleshooting write-up portfolio
 
 ---
 
