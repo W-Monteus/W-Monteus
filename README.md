@@ -1,7 +1,6 @@
 # Woldolph Monteus
 
-IT professional based in Orlando, FL — currently working toward CompTIA A+ 
-while building a foundation in networking, systems, and offensive security.
+IT professional based in Orlando, FL — CompTIA A+ and Network+ certified, studying CCNA, building a foundation in networking, systems, and offensive security.
 
 I document everything I learn and every problem I solve. This profile is a 
 record of that work in progress.
@@ -15,6 +14,7 @@ record of that work in progress.
 
 ## Currently Working On
 - CCNA exam prep
+- Active Directory home lab build (Windows Server 2022)
 - Troubleshooting write-up portfolio
 
 ---
@@ -23,7 +23,7 @@ record of that work in progress.
 | Repo | What it is |
 |------|------------|
 | [troubleshooting-writeups](https://github.com/W-Monteus/troubleshooting-writeups) | Real IT problems I've diagnosed and resolved |
-
+| [home-it-lab](https://github.com/W-Monteus/home-it-lab) | Windows Server 2022 Active Directory lab — AD DS, DNS, DHCP, GPOs, and fault diagnosis |
 ---
 
 ## Goals
